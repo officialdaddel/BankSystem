@@ -1,0 +1,9 @@
+# Customize your messages
+current-balance: "%banksystem_prefix% &7Your current balance is: &a%banksystem_balance%$"
+no-permissions: "%banksystem_prefix% &4You don't permissions to execute this command!"
+wrong-usage: "%banksystem_prefix% &4Use: %banksystem_commands%"
+not-enough-money: "%banksystem_prefix% &4You don't have enough money!"
+invalid-amount: "%banksystem_prefix% &4Invalid amount!"
+deposit-money: "%banksystem_prefix% &aYou successfully deposit: " # currently no placeholder available - amount is on the end
+withdraw-money: "%banksystem_prefix% &aYou have successfully withdrawn: " # currently no placeholder available - amount is on the end
+new-balance: "%banksystem_prefix% &aYour new balance balance is: &a%banksystem_balance%$"

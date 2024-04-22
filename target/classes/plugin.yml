@@ -1,0 +1,17 @@
+name: BankSystem
+version: 1.1
+main: net.daddel.banksystem.Main
+api-version: '1.20'
+author: Daddel
+website: https://github.com/officialdaddel
+description: Bank System for your server
+depend: [Essentials]
+commands:
+  bank:
+    aliases:
+      - banksystem
+    description: BankSystem command
+  banksystemadmin:
+    aliases:
+      - bsa
+    description: Admin command for the banksystem
