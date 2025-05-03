@@ -1,3 +1,4 @@
+# UPLOADS OUTDATED
 # BankSystem v1.2 by [Daddel](https://www.spigotmc.org/resources/authors/daddel_yt.1282767/)
 ![https://www.spigotmc.org/resources/bank-system-simples-bank-system.116303/](https://imgur.com/vTDlI9i.png)
 ## Information
